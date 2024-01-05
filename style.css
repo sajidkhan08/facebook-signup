@@ -1,0 +1,156 @@
+* {
+  margin: 0px 0px 0px 0px;
+}
+
+body {
+  text-transform: capitalize;
+  background-color: whitesmoke;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* HEADER */
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(99, 99, 247);
+  color: white;
+  height: 110px;
+}
+
+.facebook {
+  padding: 50px 10px 10px 10px;
+}
+
+#email {
+  margin-left: 500px;
+  padding-top: 30px;
+}
+
+#password {
+  margin-left: 100px;
+  padding-top: 30px;
+}
+
+.login {
+  height: 20px;
+  margin: 50px 0 0 50px;
+  background-color: rgb(99, 99, 247);
+}
+
+/* BOX 1 */
+
+#menu1 {
+  width: 80%;
+  height: 490px;
+  border: 2px none;
+}
+
+#signup-container {
+  width: 800px;
+}
+
+#container {
+  display: flex;
+}
+
+.photos {
+  float: right;
+  padding-right: 180px;
+  padding-top: 45px;
+}
+
+.notes {
+  border: 2px none;
+}
+
+.share {
+  float: right;
+  padding-right: 180px;
+  padding-top: 45px;
+}
+
+.monitor {
+  border: 2px none;
+}
+
+.find {
+  float: right;
+  padding-right: 80px;
+  padding-top: 45px;
+}
+
+.recycle {
+  border: 2px none;
+}
+
+/* BOX 2 */
+
+.signup {
+  margin: 10px 10px 10px 10px;
+}
+
+.free {
+  margin: 10px 10px 10px 10px;
+}
+
+.first-name {
+  height: 35px;
+  width: 200px;
+  border-radius: 6px;
+  margin: 10px 10px 10px 10px;
+}
+
+.last-name {
+  height: 35px;
+  width: 200px;
+  border-radius: 6px;
+}
+
+.mobile {
+  height: 35px;
+  width: 412px;
+  border-radius: 6px;
+
+  margin: 10px 10px 10px 10px;
+}
+
+.new-password {
+  height: 35px;
+  width: 412px;
+  border-radius: 6px;
+
+  margin: 10px 10px 10px 10px;
+}
+
+.birthday {
+  margin: 10px 10px 10px 10px;
+}
+
+.date {
+  height: 25px;
+  width: 170px;
+  border-radius: 6px;
+}
+
+.female {
+  margin: 10px 10px 10px 10px;
+}
+
+.male {
+  margin: 10px 10px 10px 10px;
+}
+
+.description {
+  margin: 10px 10px 10px 10px;
+}
+
+#sign {
+  height: 40px;
+  width: 200px;
+  background-color: green;
+  border-radius: 6px;
+  margin: 10px 10px 0px 10px;
+  font-size: large;
+  color: white;
+}
